@@ -3,7 +3,7 @@
 
 ## Author
 - **Name:** Maureen Muchoki
-- **GitHub:** [@Maureenmuchoki](https://github.com/maureenmuchoki-hub)
+- **GitHub:** [@Kennclout](https://github.com/kennclout-hub)
 - **Date:** March 13, 2026
 
 ## Project Description
@@ -37,14 +37,6 @@ This is my Week 3 portfolio project for IYF S10. This project demonstrates my ab
 ## Future Improvements
 - [ ] Add more JavaScript interactivity (e.g., dynamic portfolio filtering).  
 - [ ] Implement dark mode.  
-- [ ] Add more pages for projects and skills.  
-
-## Screenshots
-
-![My Portfolio](./src/images/My-Portfolio-Page.png)
-
-![Terminal Path](./src/images/Terminal-Path.png)
-
 
 ## Project Structure
 
@@ -66,15 +58,9 @@ iyf-s10-week-03-Maureenmuchoki/
 
 ## Contact
 
-- Email: nyamburamaureen2000@gmail.com  
-- LinkedIn: [Maureen Muchoki](https://linkedin.com/in/maureen-muchoki-0292283b3/)
-- GitHub: [@MaureenMuchoki](https://github.com/maureenmuchoki-hub)
-
-## Live Demo
-
-[View Live Site](https://maureenmuchoki-hub.github.io/iyf-s10-week-03-Maureenmuchoki/)
-
-[My Portfolio](https://maureenmuchoki-hub.github.io/iyf-s10-week-03-Maureenmuchoki/src/index.html)
+- Email: kennclout@gmail.com  
+- LinkedIn: [kennclout](https://linkedin.com/in/kenn-clout-0292283b3/)
+- GitHub: [@KennClout](https://github.com/kennclout-hub
 
 ## License
 

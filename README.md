@@ -2,8 +2,8 @@
 # Maureen Muchoki - Week 03 Project
 
 ## Author
-- **Name:** Maureen Muchoki
-- **GitHub:** [@Maureenmuchoki](https://github.com/maureenmuchoki-hub)
+- **Name:** Kenneth Kabathi 
+- **GitHub:** [@KennClout](https://github.com/Kennclout-hub)  
 - **Date:** March 13, 2026
 
 ## Project Description
@@ -39,11 +39,6 @@ This is my Week 3 portfolio project for IYF S10. This project demonstrates my ab
 - [ ] Implement dark mode.  
 - [ ] Add more pages for projects and skills.  
 
-## Screenshots
-
-![My Portfolio](./src/images/My-Portfolio-Page.png)
-
-![Terminal Path](./src/images/Terminal-Path.png)
 
 
 ## Project Structure
@@ -66,15 +61,10 @@ iyf-s10-week-03-Maureenmuchoki/
 
 ## Contact
 
-- Email: nyamburamaureen2000@gmail.com  
-- LinkedIn: [Maureen Muchoki](https://linkedin.com/in/maureen-muchoki-0292283b3/)
-- GitHub: [@MaureenMuchoki](https://github.com/maureenmuchoki-hub)
+- Email: kennclout@gmail.com  
+- LinkedIn: [KennClout](https://linkedin.com/in/kenn-clout-0292283b3/)
+- GitHub: [@KennClout](https://github.com/kennclout-hub)
 
-## Live Demo
-
-[View Live Site](https://maureenmuchoki-hub.github.io/iyf-s10-week-03-Maureenmuchoki/)
-
-[My Portfolio](https://maureenmuchoki-hub.github.io/iyf-s10-week-03-Maureenmuchoki/src/index.html)
 
 ## License
 

@@ -3,7 +3,7 @@
 
 ## Author
 - **Name:** Kenneth Kabathi 
-- **GitHub:** [@KennClout](https://github.com/Kennclout-hub)  
+- **GitHub:** [@KennClout](https://github.com/Kennclout-hub)
 - **Date:** March 13, 2026
 
 ## Project Description

@@ -1,5 +1,5 @@
 # Week 3: Tools & Workflow
-# Maureen Muchoki - Week 03 Project
+# Kenneth Kabathi-Week 03 Project
 
 ## Author
 - **Name:** Kenneth Kabathi 
